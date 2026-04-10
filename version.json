@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "downloadUrl": "https://github.com/KryzzedPL/onyxclient/releases/download/v1.0.1/OnyxClient.jar",
+  "downloadUrl": "https://github.com/KryzzedPL/onyxclient-updates/releases/download/v1.0.1/OnyxClient.jar",
   "changelog": "✨ Nowe funkcje:\n- Naprawiono No Hurt Camera\n- Naprawiono Zoom i Freelook\n- Dodano auto-update\n- Ulepszone menu HUD Editor\n- Dodano 4 nowe emotki\n\n🐛 Poprawki:\n- Naprawiono kolory HUD\n- Naprawiono Fast Place\n- Naprawiono No Fog"
 }
